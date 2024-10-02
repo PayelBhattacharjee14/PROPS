@@ -3,5 +3,5 @@ The goal of the Progressively Private Self Alignment algorithm (PROPS) is to ens
 
 ## References:
 For the experimental results presented in the paper, we have used two major datasets:
-1. [truthy-dpo-v0.1]([https://github.com/keiichishima/pcalg](https://huggingface.co/datasets/jondurbin/truthy-dpo-v0.1/)
+1. [truthy-dpo-v0.1](https://huggingface.co/datasets/jondurbin/truthy-dpo-v0.1/)
 2. [ultrachat](https://huggingface.co/datasets/stingning/ultrachat)
